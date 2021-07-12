@@ -5,16 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38ad23d2-5c57-428f-8cda-3a1b99a1752d" name="Default Changelist" comment="Change to maven">
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/CalculationAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/CheckAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/RestAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Diagram/UML-диаграммы классов v1.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../Diagram/UML-диаграммы классов v1.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/Controller/CalculationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/Controller/CalculationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/Controller/CalculationView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/webaap/WEB-INF/Calculation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagram/UML-диаграммы классов v2.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../Diagram/UML-диаграммы классов v2.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/CalculationCredit.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/CalculationCredit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/CalculationAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/API/CalculationAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/CheckAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/API/CheckAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/ClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/DAO/ClientDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/CreditDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/DAO/CreditDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/PostgresqlClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/DAO/PostgresqlClientDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/PostgresqlCreditDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/DAO/PostgresqlCreditDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/PostgresqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/DAO/PostgresqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/RestAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/API/RestAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,10 +60,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexk\Documents\GitHub\gb_arch\code\untitled\src\main\webaap\WEB-INF" />
+      <recent name="C:\Users\alexk\Documents\GitHub\gb_arch\code\untitled\src\main\webaap" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,6 +91,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
